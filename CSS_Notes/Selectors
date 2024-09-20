@@ -119,5 +119,3 @@
    - Understand **specificity and cascade** to control which styles are applied.
    - **Inspect CSS** in browser DevTools to troubleshoot styling issues.
    - **Inheritance** can help reduce code repetition for common properties.
-
-By mastering these fundamental concepts, you can write more efficient and effective CSS!
