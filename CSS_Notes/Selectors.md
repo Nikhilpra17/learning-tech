@@ -3,7 +3,7 @@
 #### 1. **CSS Selectors:**
    - **Element Selectors**: Target all instances of an element.  
      Example:
-     ```css
+     ```css 
      body {
        font-size: 22px;
      }
