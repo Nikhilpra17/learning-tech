@@ -1,5 +1,3 @@
-This video seems to be covering key aspects of file handling in Node.js, focusing on the `fs` (file system) module. Here's a summary of the major concepts discussed:
-
 ### Key Points:
 
 1. **Introduction to `fs` (File System) Module**:
