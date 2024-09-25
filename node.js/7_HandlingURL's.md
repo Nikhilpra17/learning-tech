@@ -1,5 +1,3 @@
-In this video, the focus is on explaining URLs, their components, and how they work in a website context. The speaker begins by discussing what a URL is and then dives deeper into each component.
-
 ### What is a URL?
 URL stands for **Uniform Resource Locator**. It's essentially a human-readable address that directs a user to a specific resource, such as a webpage, on the internet. Behind every URL is an IP address, but because IP addresses are difficult for humans to remember, URLs offer a friendly way to access resources online.
 
@@ -116,6 +114,3 @@ If a user visits `http://localhost:8000/search?q=javascript`, the server respond
 ```
 Search Results for: javascript
 ```
-
-### Conclusion
-The video highlights that understanding URLs is critical for web development because it determines how users navigate the web and how servers respond to different requests. The speaker uses real-world examples (like Google's search URL and a custom server) to demonstrate how URLs are constructed, parsed, and utilized in different scenarios.
